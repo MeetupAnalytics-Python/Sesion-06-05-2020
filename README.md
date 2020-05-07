@@ -6,3 +6,7 @@ Expositores:
 *  Manuel Valdés: **Aprendizaje de máquina en fenómenos físicos**
 *  Marcelo Herrera: **Real time computer vision con Python, en la práctica**
 
+Breaks:
+* Novedades: **Python 3.8**
+* Desafío: **Juego de la Vida**
+
