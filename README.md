@@ -1,9 +1,9 @@
 # Sesion-06-05-2020
-"Arquitectura Analítica con Microsoft", "ML en fenomenos Físicos", "Real time computer vision con Python, en la práctica"
+"Arquitectura Azure para analítica con Python", "ML en fenomenos Físicos", "Real time computer vision con Python, en la práctica"
 
 Expositores:
 *  Adrián Fernández: **Arquitectura Azure para analítica con Python**
-*  Manuel Valdés: **Aprendizaje de máquina en fenómenos físicos**
+*  Manuel Valdés: **ML en fenómenos físicos**
 *  Marcelo Herrera: **Real time computer vision con Python, en la práctica**
 
 Breaks:
